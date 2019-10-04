@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_appmaster_table">
-        <active>true</active>
+        <active>true</active
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
