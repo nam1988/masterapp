@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="table" max_length="40" name="x_snc_appmaster_table" type="collection">
-        <element choice="1" label="choice1" max_length="40" name="choice1" type="choice">
+        <element choice="1" max_length="40" name="choice1" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Test1" value="test1"/>
                 <element inactive_on_update="false" label="Test2" value="test2"/>
